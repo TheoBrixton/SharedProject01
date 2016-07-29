@@ -1,3 +1,5 @@
+It's just another line. - Paul McCartney
+
 Inserted a line here.
 
 This is just the contents of a file that I named File1.txt
